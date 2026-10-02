@@ -1,5 +1,7 @@
 # NVDA: Ascent
 
+### ▶ [Play in your browser → ukkari.github.io/nvda-ascent](https://ukkari.github.io/nvda-ascent/)
+
 **A 3D game where NVIDIA's 27-year stock chart _is_ the race course.**
 Roll a tensor-core orb from the 1999 IPO (2.5¢ split-adjusted) to the 2026 all-time high. Every hill is a rally, every cliff a crash. Along the way you collect the GPUs and accelerators that built a $5 trillion company and pass through gates marking the moments that shaped it.
 
