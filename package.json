@@ -1,0 +1,24 @@
+{
+  "name": "nvda-ascent",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Ride 27 years of NVIDIA's stock price as a 3D course. three.js + Blender + TradingView data.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "data": "python3 scripts/process_data.py",
+    "assets": "/Applications/Blender.app/Contents/MacOS/Blender -b --factory-startup --python blender/build_assets.py"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@types/three": "^0.186.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.2"
+  }
+}
